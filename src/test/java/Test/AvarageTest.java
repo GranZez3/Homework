@@ -1,4 +1,5 @@
-import org.testng.Assert;
+package Test;
+
 import org.testng.annotations.Test;
 import tasks.Avarage;
 
