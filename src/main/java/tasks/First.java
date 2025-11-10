@@ -9,7 +9,7 @@ public class First {
 
         System.out.println(Arrays.toString(removeLocalMaxima(array)));
     }
-
+ // comment for bro
     public static int[] removeLocalMaxima(int[] array){
         java.util.ArrayList<Integer> list = new java.util.ArrayList<>();
         for(int i = 0; i < array.length; i++){
