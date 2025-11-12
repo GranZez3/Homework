@@ -9,3 +9,4 @@ public class AvarageTest{
         Avarage avarage = new Avarage();
     }
 }
+
